@@ -18,4 +18,4 @@
 
 * Storage: KimMiDi MBW-T900 256GB
 
-
+<img src="about-this-mac.png" width=640>
